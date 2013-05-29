@@ -1,0 +1,6 @@
+name: PayInItemsForGuild
+version: 1.0
+main: pl.grzegorz2047.piidg.Main
+softdepend: [Factions,SimpleClans]
+commands:
+    clan:
