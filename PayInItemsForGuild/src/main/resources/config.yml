@@ -1,0 +1,14 @@
+bloki:
+  - 'minecraft:dirt'
+  - 'minecraft:stone'
+  - 'minecraft:cobblestone'
+  - 'minecraft:diamond'
+  - 'minecraft:diamond_block'
+ilosc:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 89
+notenoughblocks: '&cPosiadasz niewystarczajaca liczbe blokow'
+alreadyhaveaguild: '&cPosiadasz juz gildie!'
